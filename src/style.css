@@ -1,3 +1,12 @@
 * {
 	font-family: Meiryo, メイリオ;
 }
+
+body > header > h1 {
+	font-weight: 400;
+}
+
+body > header > h1 > a {
+	color: #000000;
+	text-decoration: none;
+}
