@@ -27,7 +27,7 @@ body > footer {
 }
 
 .cf:before,
-.cf:afetr {
+.cf:after {
 	content: " ";
 	display: table;
 }
