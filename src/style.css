@@ -21,7 +21,7 @@ body > main {
 	width: 980px;
 }
 
-body > main > nv {
+body > main > nav {
 	float: left;
 	width: 25%;
 }
