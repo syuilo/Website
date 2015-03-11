@@ -21,6 +21,16 @@ body > main {
 	width: 980px;
 }
 
+body > main > nv {
+	float: left;
+	width: 25%;
+}
+
+body > main > article {
+	float: left;
+	width: 75%;
+}
+
 body > footer {
 	margin: 0 auto;
 	width: 980px;
