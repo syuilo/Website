@@ -2,10 +2,6 @@
 	font-family: Meiryo, メイリオ;
 }
 
-body {
-	background: #800000;
-}
-
 body > header > h1 {
 	font-weight: 400;
 }
