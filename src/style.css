@@ -22,11 +22,13 @@ body > main {
 }
 
 body > main > nav {
+	box-sizing: border-box;
 	float: left;
 	width: 25%;
 }
 
 body > main > article {
+	box-sizing: border-box;
 	float: left;
 	width: 75%;
 }
