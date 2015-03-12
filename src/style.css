@@ -2,6 +2,10 @@
 	font-family: Meiryo, メイリオ;
 }
 
+body {
+	margin: 0;
+}
+
 header[role="banner"] {
 	background: #000000;
 	margin: 0 auto;
