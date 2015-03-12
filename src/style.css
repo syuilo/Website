@@ -9,6 +9,7 @@ body {
 header[role="banner"] {
 	background: #000000;
 	padding: 8px;
+	width: 100%;
 }
 
 header[role="banner"] > h1 {
