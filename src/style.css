@@ -15,10 +15,18 @@ header[role="banner"] > h1 {
 	font-weight: 400;
 }
 
+header[role="banner"].fix {
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 9999;
+}
+
 header[role="banner"] > h1 a {
 	color: #ffffff;
 	text-decoration: none;
 }
+
 
 main[role="main"] {
 	margin: 0 auto;
