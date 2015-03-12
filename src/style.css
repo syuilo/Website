@@ -31,6 +31,16 @@ nav[role="navigation"] {
 	width: 25%;
 }
 
+nav[role="navigation"] ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav[role="navigation"] ul li {
+	border-bottom: #808080 1px solid;
+}
+
 article[role="article"] {
 	box-sizing: border-box;
 	float: left;
