@@ -28,6 +28,7 @@ main[role="main"] {
 nav[role="navigation"] {
 	box-sizing: border-box;
 	float: left;
+	padding: 8px;
 	width: 25%;
 }
 
@@ -44,6 +45,7 @@ nav[role="navigation"] ul li {
 article[role="article"] {
 	box-sizing: border-box;
 	float: left;
+	padding: 8px:;
 	width: 75%;
 }
 
