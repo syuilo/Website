@@ -7,11 +7,11 @@ header[role="banner"] {
 	width: 980px;
 }
 
-header[role="banner"] > h1 {
+header[role="banner"] h1 {
 	font-weight: 400;
 }
 
-header[role="banner"] > h1 > a {
+header[role="banner"] h1 > a {
 	color: #000000;
 	text-decoration: none;
 }
