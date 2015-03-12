@@ -3,6 +3,7 @@
 }
 
 header[role="banner"] {
+	background: #000000;
 	margin: 0 auto;
 	width: 980px;
 }
