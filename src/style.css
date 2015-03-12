@@ -37,6 +37,13 @@ article[role="article"] {
 	width: 75%;
 }
 
+article[role="article"] h1 {
+	color: #ffffff;
+	background: #4169e1;
+	font-weight: 400;
+	padding: 8px;
+}
+
 footer[role="contentinfo"] {
 	margin: 0 auto;
 	width: 980px;
