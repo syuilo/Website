@@ -40,6 +40,7 @@ article[role="article"] {
 article[role="article"] h1 {
 	color: #ffffff;
 	background: #4169e1;
+	border-radius: 8px;
 	font-weight: 400;
 	padding: 8px;
 }
