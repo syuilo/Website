@@ -59,7 +59,9 @@ nav[role="navigation"] ul li:hover {
 
 nav[role="navigation"] ul li a {
 	color: #000000;
+	display: block;
 	text-decoration: none;
+	width: 100%;
 }
 
 article[role="article"] {
