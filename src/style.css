@@ -42,14 +42,14 @@ nav[role="navigation"] {
 }
 
 nav[role="navigation"] ul {
-	border-left: #4691e1 8px solid;
+	border-left: #000000 8px solid;
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 
 nav[role="navigation"] ul li {
-	border-bottom: #808080 1px solid;
+	border-bottom: #000000 1px solid;
 	padding: 8px 0;
 	text-align: center;
 }
@@ -63,6 +63,10 @@ nav[role="navigation"] ul li a {
 	display: block;
 	text-decoration: none;
 	width: 100%;
+}
+
+nav[role="navigation"] ul li a:hover {
+	color: #ffffff;
 }
 
 article[role="article"] {
