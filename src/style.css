@@ -54,10 +54,6 @@ nav[role="navigation"] ul li {
 	text-align: center;
 }
 
-nav[role="navigation"] ul li:hover {
-	background: #4169e1;
-}
-
 nav[role="navigation"] ul li a {
 	color: #000000;
 	display: block;
