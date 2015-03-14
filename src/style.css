@@ -29,10 +29,6 @@ header[role="banner"] > h1 a {
 	text-decoration: none;
 }
 
-main[role="main"] {
-	margin: 0 auto;
-	width: 980px;
-}
 
 nav[role="navigation"] {
 	background: #f39c12;
@@ -48,8 +44,12 @@ nav[role="navigation"] ul {
 }
 
 nav[role="navigation"] ul li {
+	border-bottom: rgba(0, 0, 0, .2) 1px solid;
 	padding: 8px;
-	width: 100%;
+}
+
+nav[role="navigation"] ul li:last-child {
+	border: none;
 }
 
 nav[role="navigation"] ul li a {
