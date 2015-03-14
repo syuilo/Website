@@ -41,26 +41,6 @@ nav[role="navigation"] {
 	width: 25%;
 }
 
-nav[role="navigation"] ul {
-	border-left: #000000 8px solid;
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
-nav[role="navigation"] ul li {
-	border-bottom: #000000 1px solid;
-	padding: 8px 0;
-	text-align: center;
-}
-
-nav[role="navigation"] ul li a {
-	color: #000000;
-	display: block;
-	text-decoration: none;
-	width: 100%;
-}
-
 article[role="article"] {
 	box-sizing: border-box;
 	float: left;
