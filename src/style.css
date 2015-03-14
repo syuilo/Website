@@ -43,7 +43,7 @@ nav[role="navigation"] {
 
 nav[role="navigation"] ul {
 	list-style: none;
-	margin: 0;
+	margin: 0 8px;
 }
 
 nav[role="navigation"] ul li {
