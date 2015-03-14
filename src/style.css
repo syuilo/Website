@@ -61,10 +61,6 @@ nav[role="navigation"] ul li a {
 	width: 100%;
 }
 
-nav[role="navigation"] ul li a:hover {
-	color: #ffffff;
-}
-
 article[role="article"] {
 	box-sizing: border-box;
 	float: left;
