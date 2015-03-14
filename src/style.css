@@ -42,6 +42,10 @@ nav[role="navigation"] {
 	width: 25%;
 }
 
+nav[role="navigation"] li {
+	list-style: none;
+}
+
 nav[role="navigation"] li a {
 	color: #ffffff;
 	text-decoration: none;
