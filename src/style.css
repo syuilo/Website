@@ -35,7 +35,6 @@ main[role="main"] {
 }
 
 nav[role="navigation"] {
-	background: #b0430b;
 	box-sizing: border-box;
 	float: left;
 	padding: 8px;
@@ -44,6 +43,10 @@ nav[role="navigation"] {
 
 nav[role="navigation"] ul {
 	list-style: none;
+}
+
+nav[role="navigation"] ul li {
+	background: #f39c12;
 }
 
 nav[role="navigation"] ul li a {
