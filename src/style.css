@@ -42,7 +42,7 @@ nav[role="navigation"] {
 	width: 25%;
 }
 
-nav[role="navigation"] li {
+nav[role="navigation"] ul {
 	list-style: none;
 }
 
