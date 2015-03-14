@@ -46,7 +46,7 @@ nav[role="navigation"] ul {
 	list-style: none;
 }
 
-nav[role="navigation"] li a {
+nav[role="navigation"] ul li a {
 	color: #ffffff;
 	text-decoration: none;
 }
