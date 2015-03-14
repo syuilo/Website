@@ -42,6 +42,11 @@ nav[role="navigation"] {
 	width: 25%;
 }
 
+nav[role="navigation"] li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
 article[role="article"] {
 	box-sizing: border-box;
 	float: left;
